@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="mockup-figmaland" src="./assets/Soft Minimalist Download Multiple Devices Mockup.png" width="50%">
+  <img alt="mockup-pageError404" src="./src/assets/mock.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
